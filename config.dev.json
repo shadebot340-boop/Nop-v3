@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "",
+    "email": "shadebot340@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -13,21 +13,20 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": " ||𝕧𝕖𝕝𝕠𝕩 -3 🇧🇦🇦🇶",
+  "nickNameBot": "ʚ🫧 𝘈𝘦𝘴𝘵𝘩𝘦𝘳 𝘚𝘩𝘢𝘥𝘦 🫧ɞ",
   "prefix": "¢",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61561648169981",
+    "61573867120837",
 
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61561648169981",
-"6823853694334271",
+    "whiteListIds": ["61573867120837",
       ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
